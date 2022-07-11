@@ -1,0 +1,39 @@
+.container{
+    background: rgb(242, 241, 241);
+}
+
+.card{
+    display: flex;
+    
+    margin-bottom: 100px;
+    background-color: white;
+}
+.content{
+    padding: 200px;
+}
+.img{
+    display: flex;
+    padding: 50px;
+    
+    
+}
+.image{
+    height: 100%;
+    background-color: green;
+    position: relative;
+}
+section{
+    width: 50%;
+    
+}
+h1{
+    font-size: 40px;
+}
+button{
+    background: green;
+    color: white;
+    padding: 10px 30px;
+    font-size: 18px;
+    border-radius: 20%;
+    border: green;
+}

@@ -1,0 +1,86 @@
+/* Our CSS file. */
+
+
+.container, .content {
+width: 100%;
+height: 100%;
+margin: 1px solid black;
+}
+header{
+    width: 100%;
+    border: 1px solid black;
+    height: auto;
+    display: inline-block;
+}
+.logo{
+    width: 70px;
+    padding-left: 50px;
+    margin: 8px;
+    display: inline-block;
+}
+form{
+    float:right;
+    margin:30px;
+    display: inline-block;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+#main-content-section{
+    width: 45%;
+}
+.navigation{
+    width: 97%;
+    border: 1px solid black;
+}
+nav ul{
+    list-style: none;
+    text-align: center;
+}
+nav ul li{
+    display: inline-block;
+    margin: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 8px;
+}
+aside{
+    width: 25%;
+    display: inline-block;
+    border: 1px solid black;
+    position: relative;
+    margin: 6px;
+}
+
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+#main-content-section{
+    display: inline-block;
+    width:48%;
+    border: 1px solid black;
+    
+}
+
+.post-img{
+    width: 150px;
+    height: 200px;
+}
+ul{
+    list-style: none;
+}
+td{
+    padding-left: 30px;
+}
+aside ul li{
+    text-align: center;
+    margin: 20px;
+}
+footer{
+    width:99%;
+    border: 1px solid #00000;  
+}
